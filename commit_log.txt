@@ -47164,3 +47164,4 @@ Alteração 40598: 02/01/2000 | Autor: Poderoso Guerreiro 40598
 Alteração 40599: 03/01/2000 | Autor: Veloz Mestre 40599
 Alteração 40600: 04/01/2000 | Autor: Secreto Ninja 40600
 Alteração 40601: 05/01/2000 | Autor: Fantástico Agente 40601
+Alteração 40602: 06/01/2000 | Autor: Incrivel Comandante 40602
