@@ -48622,3 +48622,4 @@ Alteração 42056: 30/12/2003 | Autor: Fantástico Agente 42056
 Alteração 42057: 31/12/2003 | Autor: Incrivel Comandante 42057
 Alteração 42058: 01/01/2004 | Autor: Poderoso Guerreiro 42058
 Alteração 42059: 02/01/2004 | Autor: Veloz Mestre 42059
+Alteração 42060: 03/01/2004 | Autor: Secreto Ninja 42060
