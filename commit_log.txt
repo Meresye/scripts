@@ -45567,3 +45567,4 @@ Alteração 39001: 19/08/1995 | Autor: Fantástico Agente 39001
 Alteração 39002: 20/08/1995 | Autor: Incrivel Comandante 39002
 Alteração 39003: 21/08/1995 | Autor: Poderoso Guerreiro 39003
 Alteração 39004: 22/08/1995 | Autor: Veloz Mestre 39004
+Alteração 39005: 23/08/1995 | Autor: Secreto Ninja 39005
