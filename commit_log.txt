@@ -46066,3 +46066,4 @@ Alteração 39500: 30/12/1996 | Autor: Secreto Ninja 39500
 Alteração 39501: 31/12/1996 | Autor: Fantástico Agente 39501
 Alteração 39502: 01/01/1997 | Autor: Incrivel Comandante 39502
 Alteração 39503: 02/01/1997 | Autor: Poderoso Guerreiro 39503
+Alteração 39504: 03/01/1997 | Autor: Veloz Mestre 39504
