@@ -47407,3 +47407,4 @@ Alteração 40841: 01/09/2000 | Autor: Fantástico Agente 40841
 Alteração 40842: 02/09/2000 | Autor: Incrivel Comandante 40842
 Alteração 40843: 03/09/2000 | Autor: Poderoso Guerreiro 40843
 Alteração 40844: 04/09/2000 | Autor: Veloz Mestre 40844
+Alteração 40845: 05/09/2000 | Autor: Secreto Ninja 40845
