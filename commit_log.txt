@@ -43662,3 +43662,4 @@ Alteração 37096: 01/06/1990 | Autor: Fantástico Agente 37096
 Alteração 37097: 02/06/1990 | Autor: Incrivel Comandante 37097
 Alteração 37098: 03/06/1990 | Autor: Poderoso Guerreiro 37098
 Alteração 37099: 04/06/1990 | Autor: Veloz Mestre 37099
+Alteração 37100: 05/06/1990 | Autor: Secreto Ninja 37100
