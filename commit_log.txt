@@ -47376,3 +47376,4 @@ Alteração 40810: 01/08/2000 | Autor: Secreto Ninja 40810
 Alteração 40811: 02/08/2000 | Autor: Fantástico Agente 40811
 Alteração 40812: 03/08/2000 | Autor: Incrivel Comandante 40812
 Alteração 40813: 04/08/2000 | Autor: Poderoso Guerreiro 40813
+Alteração 40814: 05/08/2000 | Autor: Veloz Mestre 40814
