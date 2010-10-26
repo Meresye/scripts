@@ -10568,3 +10568,4 @@ Alteração 4002: 22/10/1899 | Autor: Incrivel Comandante 4002
 Alteração 4003: 23/10/1899 | Autor: Poderoso Guerreiro 4003
 Alteração 4004: 24/10/1899 | Autor: Veloz Mestre 4004
 Alteração 4005: 25/10/1899 | Autor: Secreto Ninja 4005
+Alteração 4006: 26/10/1899 | Autor: Fantástico Agente 4006
