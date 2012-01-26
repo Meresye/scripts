@@ -51567,3 +51567,4 @@ Alteração 45001: 22/01/2012 | Autor: Fantástico Agente 45001
 Alteração 45002: 23/01/2012 | Autor: Incrivel Comandante 45002
 Alteração 45003: 24/01/2012 | Autor: Poderoso Guerreiro 45003
 Alteração 45004: 25/01/2012 | Autor: Veloz Mestre 45004
+Alteração 45005: 26/01/2012 | Autor: Secreto Ninja 45005
