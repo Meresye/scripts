@@ -14651,3 +14651,4 @@ Alteração 8085: 27/12/1910 | Autor: Secreto Ninja 8085
 Alteração 8086: 28/12/1910 | Autor: Fantástico Agente 8086
 Alteração 8087: 29/12/1910 | Autor: Incrivel Comandante 8087
 Alteração 8088: 30/12/1910 | Autor: Poderoso Guerreiro 8088
+Alteração 8089: 31/12/1910 | Autor: Veloz Mestre 8089
