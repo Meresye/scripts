@@ -51911,3 +51911,4 @@ Alteração 45345: 31/12/2012 | Autor: Secreto Ninja 45345
 Alteração 45346: 01/01/2013 | Autor: Fantástico Agente 45346
 Alteração 45347: 02/01/2013 | Autor: Incrivel Comandante 45347
 Alteração 45348: 03/01/2013 | Autor: Poderoso Guerreiro 45348
+Alteração 45349: 04/01/2013 | Autor: Veloz Mestre 45349
