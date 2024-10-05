@@ -10547,3 +10547,4 @@ Alteração 3981: 01/10/1899 | Autor: Fantástico Agente 3981
 Alteração 3982: 02/10/1899 | Autor: Incrivel Comandante 3982
 Alteração 3983: 03/10/1899 | Autor: Poderoso Guerreiro 3983
 Alteração 3984: 04/10/1899 | Autor: Veloz Mestre 3984
+Alteração 3985: 05/10/1899 | Autor: Secreto Ninja 3985
