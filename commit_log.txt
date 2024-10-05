@@ -11642,3 +11642,4 @@ Alteração 5076: 01/10/1902 | Autor: Fantástico Agente 5076
 Alteração 5077: 02/10/1902 | Autor: Incrivel Comandante 5077
 Alteração 5078: 03/10/1902 | Autor: Poderoso Guerreiro 5078
 Alteração 5079: 04/10/1902 | Autor: Veloz Mestre 5079
+Alteração 5080: 05/10/1902 | Autor: Secreto Ninja 5080
