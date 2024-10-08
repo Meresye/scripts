@@ -14567,3 +14567,4 @@ Alteração 8001: 04/10/1910 | Autor: Fantástico Agente 8001
 Alteração 8002: 05/10/1910 | Autor: Incrivel Comandante 8002
 Alteração 8003: 06/10/1910 | Autor: Poderoso Guerreiro 8003
 Alteração 8004: 07/10/1910 | Autor: Veloz Mestre 8004
+Alteração 8005: 08/10/1910 | Autor: Secreto Ninja 8005
