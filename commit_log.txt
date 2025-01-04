@@ -11368,3 +11368,4 @@ Alteração 4802: 31/12/1901 | Autor: Incrivel Comandante 4802
 Alteração 4803: 01/01/1902 | Autor: Poderoso Guerreiro 4803
 Alteração 4804: 02/01/1902 | Autor: Veloz Mestre 4804
 Alteração 4805: 03/01/1902 | Autor: Secreto Ninja 4805
+Alteração 4806: 04/01/1902 | Autor: Fantástico Agente 4806
