@@ -6987,3 +6987,4 @@ Alteração 421: 01/01/1890 | Autor: Fantástico Agente 421
 Alteração 422: 02/01/1890 | Autor: Incrivel Comandante 422
 Alteração 423: 03/01/1890 | Autor: Poderoso Guerreiro 423
 Alteração 424: 04/01/1890 | Autor: Veloz Mestre 424
+Alteração 425: 05/01/1890 | Autor: Secreto Ninja 425
