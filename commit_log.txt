@@ -15387,3 +15387,4 @@ Alteração 8821: 01/01/1913 | Autor: Fantástico Agente 8821
 Alteração 8822: 02/01/1913 | Autor: Incrivel Comandante 8822
 Alteração 8823: 03/01/1913 | Autor: Poderoso Guerreiro 8823
 Alteração 8824: 04/01/1913 | Autor: Veloz Mestre 8824
+Alteração 8825: 05/01/1913 | Autor: Secreto Ninja 8825
