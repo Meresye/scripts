@@ -11402,3 +11402,4 @@ Alteração 4836: 03/02/1902 | Autor: Fantástico Agente 4836
 Alteração 4837: 04/02/1902 | Autor: Incrivel Comandante 4837
 Alteração 4838: 05/02/1902 | Autor: Poderoso Guerreiro 4838
 Alteração 4839: 06/02/1902 | Autor: Veloz Mestre 4839
+Alteração 4840: 07/02/1902 | Autor: Secreto Ninja 4840
