@@ -11062,3 +11062,4 @@ Alteração 4496: 28/02/1901 | Autor: Fantástico Agente 4496
 Alteração 4497: 01/03/1901 | Autor: Incrivel Comandante 4497
 Alteração 4498: 02/03/1901 | Autor: Poderoso Guerreiro 4498
 Alteração 4499: 03/03/1901 | Autor: Veloz Mestre 4499
+Alteração 4500: 04/03/1901 | Autor: Secreto Ninja 4500
