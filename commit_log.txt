@@ -10607,3 +10607,4 @@ Alteração 4041: 30/11/1899 | Autor: Fantástico Agente 4041
 Alteração 4042: 01/12/1899 | Autor: Incrivel Comandante 4042
 Alteração 4043: 02/12/1899 | Autor: Poderoso Guerreiro 4043
 Alteração 4044: 03/12/1899 | Autor: Veloz Mestre 4044
+Alteração 4045: 04/12/1899 | Autor: Secreto Ninja 4045
